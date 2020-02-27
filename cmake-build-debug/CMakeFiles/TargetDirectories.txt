@@ -1,0 +1,3 @@
+C:/Users/slive/Desktop/TNV_C/MioProgetto/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/slive/Desktop/TNV_C/MioProgetto/cmake-build-debug/CMakeFiles/MioProgetto.dir
+C:/Users/slive/Desktop/TNV_C/MioProgetto/cmake-build-debug/CMakeFiles/rebuild_cache.dir
